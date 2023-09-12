@@ -1,0 +1,20 @@
+-- iniciar repositario git
+
+git init
+
+--verificar status do repositorio 
+
+git statusgit add a.txt
+ 
+
+ --adiciona todos os arquivos modificados
+
+ git add.
+
+--adicionar um comentario referente ao conjuntos de modificoes realizadas
+
+git commit -a -m
+
+git branch -M main
+git remote add origin https://github.com/igorvp18/ti109_aprendendo_git_hub.git
+git push -u origin main
